@@ -3,7 +3,7 @@
 How to run
 
 Method 1:
-- Download ``game.rar```
+- Download ```game.rar```
 - Decompress ```game.rar```
 - Run ```main.exe```
 

@@ -1,0 +1,5 @@
+RESOLUTION = (1248, 702)
+FPS = 30
+
+# Start Menu
+START_BUTTON_SIZE = (300, 100)
